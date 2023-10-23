@@ -1,4 +1,4 @@
-[Common collection.json](https://github.com/Valya-Kapl/NewPortfolio/files/13069967/Common.collection.json)# Портфолио инженера по тестированию
+# Портфолио инженера по тестированию
 
 ## <em> Обо мне <em> 
 
