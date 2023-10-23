@@ -27,18 +27,17 @@ Qase, Sitechco для написания тестовой документаци
 Confluence для ведения тест-плана и отчета;
 Jira для фиксирования баг-репортов.
 
-Декомпозиция в Miro![CW1](https://github.com/Valya-Kapl/NewPortfolio/assets/148639969/96849ad4-e035-4028-9af0-229d1cbbb2c9)
+Декомпозиция в Miro
+![CW1](https://github.com/Valya-Kapl/NewPortfolio/assets/148639969/96849ad4-e035-4028-9af0-229d1cbbb2c9)
 
 
-
+Тест-кейсы в Qase.io
 
 [Тест-кейсы.pdf](https://github.com/Valya-Kapl/NewPortfolio/files/13069746/-.pdf)
 
+Баги в Jira
 
-
-
-Итог №1
-Итог №2
+[Uploading Баги.doc…]()
 
 Проект 2: тест кабинета учителя в приложении Skyeng
 
