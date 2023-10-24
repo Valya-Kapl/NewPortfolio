@@ -29,9 +29,10 @@ Jira для фиксирования баг-репортов.
 
 Декомпозиция в Miro
 (https://miro.com/app/board/uXjVMJOVeTk=/?share_link_id=847767555081)
+
+
 Чек-листы в Sitechco
 [Uploading Чек-листы.xml…]() 
-
 
 
 Тест-кейсы в Qase.io
