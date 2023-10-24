@@ -43,7 +43,8 @@ Jira для фиксирования баг-репортов.
 [Тест-кейсы.pdf](https://github.com/Valya-Kapl/NewPortfolio/files/13069746/-.pdf)
 
 Баги в Jira
-(Uploading Баги.doc…)
+[Баги.doc.pdf](https://github.com/Valya-Kapl/NewPortfolio/files/13121703/doc.pdf)
+
 
     
 
